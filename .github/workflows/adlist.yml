@@ -50,4 +50,4 @@ jobs:
         with:
           file_pattern: 'adlist.txt'
           commit_message: Update adlist
-          branch: ${{ github.head_ref }}
+          branch: adlist
