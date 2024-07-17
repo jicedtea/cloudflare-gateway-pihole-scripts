@@ -136,7 +136,7 @@ console.log("\n\n");
   );
 
   const writeStream = createWriteStream("adlist.txt", { flags: "w" });
-  domains.forEach(function(domain) { writeStream.write(domain + '\n'); });
+  domains.forEach(function(domain) { writeStream.write('0.0.0.0 ' + domain + '\n'); });
   writeStream.end();
 
   await notifyWebhook(
