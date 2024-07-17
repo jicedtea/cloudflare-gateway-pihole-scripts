@@ -16,14 +16,14 @@ env:
   NODE_ENV: production
 
 jobs:
-  cgps:
+  adlist:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          repository: "mrrfv/cloudflare-gateway-pihole-scripts"
-          ref: "v1"
+          repository: "jicedtea/cloudflare-gateway-pihole-scripts"
+          ref: "main"
 
       - name: Install Node.js
         uses: actions/setup-node@v4
