@@ -1,11 +1,11 @@
-name: Update Filter Lists
+name: Create Adlist
 
 on:
-#  schedule:
-#    - cron: "0 3 * * 1"
-#  push:
-#    branches:
-#      - main
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 concurrency:
@@ -16,14 +16,14 @@ env:
   NODE_ENV: production
 
 jobs:
-  cgps:
+  adlist:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          repository: "mrrfv/cloudflare-gateway-pihole-scripts"
-          ref: "v1"
+          repository: "jicedtea/cloudflare-gateway-pihole-scripts"
+          ref: "adlist"
 
       - name: Install Node.js
         uses: actions/setup-node@v4
@@ -43,36 +43,11 @@ jobs:
         env:
           BLOCKLIST_URLS: ${{ vars.BLOCKLIST_URLS }}
 
-      - name: Delete old rules and lists
-        run: npm run cloudflare-delete
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CLOUDFLARE_LIST_ITEM_LIMIT: ${{ secrets.CLOUDFLARE_LIST_ITEM_LIMIT }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          FAST_MODE: ${{ vars.FAST_MODE }}
+      - name: Create adlist
+        run: npm run create-adlist
 
-      - name: Create new rules and lists
-        run: npm run cloudflare-create
-        env:
-          BLOCK_PAGE_ENABLED: ${{ vars.BLOCK_PAGE_ENABLED }}
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CLOUDFLARE_LIST_ITEM_LIMIT: ${{ secrets.CLOUDFLARE_LIST_ITEM_LIMIT }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          FAST_MODE: ${{ vars.FAST_MODE }}
-
-      - name: Send ping request
-        if: env.PING_URL != ''
-        run: |
-          curl "${{ env.PING_URL }}"
-        env:
-          PING_URL: ${{ secrets.PING_URL }}
-
-  keepalive:
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/keepalive-workflow@v2
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: 'adlist.txt'
+          commit_message: Update adlist
+          branch: ${{ github.head_ref }}
