@@ -119,6 +119,6 @@ console.log("\n\n");
   writeStream.end();
 
   await notifyWebhook(
-    `Ad List Create script finished running (${domains.length} domains, ${numberOfLists} lists)`
+    `Ad List Create script finished running (${domains.length} domains)`
   );
 })();
