@@ -8,9 +8,7 @@ import {
 import {
   DEBUG,
   DRY_RUN,
-  FAST_MODE,
   LIST_ITEM_LIMIT,
-  LIST_ITEM_SIZE,
   PROCESSING_FILENAME,
 } from "./lib/constants.js";
 import { normalizeDomain, notifyWebhook } from "./lib/helpers.js";
@@ -91,15 +89,15 @@ await readFile(resolve(`./${blocklistFilename}`), (line, rl) => {
   // Get all the levels of the domain and check from the highest
   // because we are blocking all subdomains
   // Example: fourth.third.example.com => ["example.com", "third.example.com", "fourth.third.example.com"]
-  for (const item of extractDomain(domain).slice(1)) {
-    if (!blocklist.has(item)) continue;
-
-    // The higher-level domain is already blocked
-    // so it's not necessary to block this domain
-    if (DEBUG) console.log(`Found ${item} in blocklist already - Skipping ${domain}`);
-    unnecessaryDomainCount++;
-    return;
-  }
+  // for (const item of extractDomain(domain).slice(1)) {
+  //   if (!blocklist.has(item)) continue;
+  //
+  //   // The higher-level domain is already blocked
+  //   // so it's not necessary to block this domain
+  //   if (DEBUG) console.log(`Found ${item} in blocklist already - Skipping ${domain}`);
+  //   unnecessaryDomainCount++;
+  //   return;
+  // }
 
   blocklist.set(domain, 1);
   domains.push(domain);
@@ -112,15 +110,12 @@ await readFile(resolve(`./${blocklistFilename}`), (line, rl) => {
   }
 });
 
-const numberOfLists = Math.ceil(domains.length / LIST_ITEM_SIZE);
-
 console.log("\n\n");
 console.log(`Number of processed domains: ${processedDomainCount}`);
 console.log(`Number of duplicate domains: ${duplicateDomainCount}`);
 console.log(`Number of unnecessary domains: ${unnecessaryDomainCount}`);
 console.log(`Number of allowed domains: ${allowedDomainCount}`);
 console.log(`Number of blocked domains: ${domains.length}`);
-console.log(`Number of lists to be created: ${numberOfLists}`);
 console.log("\n\n");
 
 (async () => {
