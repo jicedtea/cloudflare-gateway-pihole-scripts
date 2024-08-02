@@ -2,12 +2,7 @@ import { createWriteStream, existsSync } from "node:fs";
 import { resolve } from "node:path";
 
 import {
-  createZeroTrustListsAtOnce,
-  createZeroTrustListsOneByOne,
-} from "./lib/api.js";
-import {
   DEBUG,
-  DRY_RUN,
   LIST_ITEM_LIMIT,
   PROCESSING_FILENAME,
 } from "./lib/constants.js";
@@ -119,17 +114,6 @@ console.log(`Number of blocked domains: ${domains.length}`);
 console.log("\n\n");
 
 (async () => {
-  if (DRY_RUN) {
-    console.log(
-      "Dry run complete - no lists were created. If this was not intended, please remove the DRY_RUN environment variable and try again."
-    );
-    return;
-  }
-
-  console.log(
-    `Creating ${numberOfLists} lists for ${domains.length} domains...`
-  );
-
   const writeStream = createWriteStream("adlist.txt", { flags: "w" });
   domains.forEach(function(domain) { writeStream.write('0.0.0.0 ' + domain + '\n'); });
   writeStream.end();
