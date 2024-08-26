@@ -236324,6 +236324,7 @@
 0.0.0.0 ads.pubadx.one
 0.0.0.0 platform.pubadx.one
 0.0.0.0 www.pubadx.one
+0.0.0.0 vietnamdaily-log.kienthuc.net.vn
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
 0.0.0.0 1fkx796mw.com
@@ -236496,6 +236497,7 @@
 0.0.0.0 ads.joaffs.com
 0.0.0.0 ads.kitidi.com
 0.0.0.0 ads.larryaffiliates.com
+0.0.0.0 ads.moneyoyo.com
 0.0.0.0 ads.mxhnkn.pro
 0.0.0.0 ads.mythad.com
 0.0.0.0 ads.nfbusty.com
@@ -236683,6 +236685,7 @@
 0.0.0.0 api.feedad.com
 0.0.0.0 api.forshrd.com
 0.0.0.0 api.mbrx.app
+0.0.0.0 api.moneyoyo.org
 0.0.0.0 api.myadsget.com
 0.0.0.0 api.pushspring.com
 0.0.0.0 apisq9zxs.com
@@ -238584,6 +238587,7 @@
 0.0.0.0 puzojfxtaa.com
 0.0.0.0 puzsimjzuorg.com
 0.0.0.0 puzzleabsolve.com
+0.0.0.0 pwfuyqmnwau.com
 0.0.0.0 pwieu.com
 0.0.0.0 pyrrh-xbf.com
 0.0.0.0 pzhuzlwjiymfos.com
@@ -239410,6 +239414,7 @@
 0.0.0.0 wxtnqppgaal.com
 0.0.0.0 wychhedgy.life
 0.0.0.0 wylecricket.com
+0.0.0.0 wyohpiohdttb.com
 0.0.0.0 wytingaerosol.uno
 0.0.0.0 wyyipndemngo.com
 0.0.0.0 wzelkaekmoman.com
