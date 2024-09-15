@@ -227140,11 +227140,6 @@
 0.0.0.0 m.bingads.microsoft.com
 0.0.0.0 advertising.microsoft.com
 0.0.0.0 fp.advertising.microsoft.com
-0.0.0.0 config.fp.measure.office.com
-0.0.0.0 fp.measure.office.com
-0.0.0.0 upload.fp.measure.office.com
-0.0.0.0 upload2.fp.measure.office.com
-0.0.0.0 wan.measure.office.com
 0.0.0.0 tenmaxsgads.blob.core.windows.net
 0.0.0.0 click.atdmt.com
 0.0.0.0 g.atdmt.com
@@ -227719,6 +227714,18 @@
 0.0.0.0 analytics.unity3d.com
 0.0.0.0 www.analytics.unity3d.com
 0.0.0.0 analytics.uca.cloud.unity3d.com
+0.0.0.0 a-uap.iads.unity3d.com
+0.0.0.0 c.iads.unity3d.com
+0.0.0.0 cdn.iads.unity3d.com
+0.0.0.0 icon-uap.iads.unity3d.com
+0.0.0.0 o-pxt.iads.unity3d.com
+0.0.0.0 o.iads.unity3d.com
+0.0.0.0 gw.mediation.unity3d.com
+0.0.0.0 i-adq.mediation.unity3d.com
+0.0.0.0 i-sdk.mediation.unity3d.com
+0.0.0.0 o-adq.mediation.unity3d.com
+0.0.0.0 o-iab.mediation.unity3d.com
+0.0.0.0 o-sdk.mediation.unity3d.com
 0.0.0.0 ads-game-configuration.unityads.unity3d.com
 0.0.0.0 ads-sdk-configuration-gcp.unityads.unity3d.com
 0.0.0.0 ads-sdk-configuration.unityads.unity3d.com
@@ -227731,12 +227738,6 @@
 0.0.0.0 staging.unityads.unity3d.com
 0.0.0.0 httpkafka-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 httpkafka.ads.prd.ie.internal.unity3d.com
-0.0.0.0 a-uap.iads.unity3d.com
-0.0.0.0 c.iads.unity3d.com
-0.0.0.0 cdn.iads.unity3d.com
-0.0.0.0 icon-uap.iads.unity3d.com
-0.0.0.0 o-pxt.iads.unity3d.com
-0.0.0.0 o.iads.unity3d.com
 0.0.0.0 www.appodealx.com
 0.0.0.0 a.chartboost.com
 0.0.0.0 analytics.chartboost.com
@@ -232685,10 +232686,6 @@
 0.0.0.0 cdn.unibotscdn.com
 0.0.0.0 stream.unibotscdn.com
 0.0.0.0 cdn.hubvisor.io
-0.0.0.0 data.adobedc.net
-0.0.0.0 adobecorp.data.adobedc.net
-0.0.0.0 adobemobiledev.data.adobedc.net
-0.0.0.0 esdk.data.adobedc.net
 0.0.0.0 static.growthrx.in
 0.0.0.0 survicate.com
 0.0.0.0 revboostprocdnadsprod.azureedge.net
@@ -233072,6 +233069,10 @@
 0.0.0.0 tg1.adservrs.com
 0.0.0.0 ads.rwadx.com
 0.0.0.0 rwadx.com
+0.0.0.0 api.adnz.co
+0.0.0.0 cdn.adnz.co
+0.0.0.0 analytics.explus.vn
+0.0.0.0 cdptracker.hocmai.com.vn
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
 0.0.0.0 17mmc5g1n.com
@@ -233230,6 +233231,7 @@
 0.0.0.0 adru.net
 0.0.0.0 ads-api.ft.com
 0.0.0.0 ads-ios-sdk.ogury.co
+0.0.0.0 ads-to.click
 0.0.0.0 ads.6789live.com
 0.0.0.0 ads.alibaba.com
 0.0.0.0 ads.bid
@@ -233287,6 +233289,7 @@
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adservinginternational.com
+0.0.0.0 adsession.exacdn.com
 0.0.0.0 adshost1.com
 0.0.0.0 adshostnet.com
 0.0.0.0 adsk2.co
@@ -234189,6 +234192,7 @@
 0.0.0.0 erauthors.com
 0.0.0.0 eremuribleak.com
 0.0.0.0 ermin-oxj.info
+0.0.0.0 errantstetrole.com
 0.0.0.0 esellerate.net
 0.0.0.0 etoet.icu
 0.0.0.0 euclid.kuula.co
@@ -234726,6 +234730,7 @@
 0.0.0.0 js.xzjhome.cc
 0.0.0.0 jscdn.greeter.me
 0.0.0.0 jtkctpvlsilycn.com
+0.0.0.0 jtoabhvw.com
 0.0.0.0 jtokaxswunka.com
 0.0.0.0 jtujmyhhuo.com
 0.0.0.0 jugjetwok.com
@@ -235137,6 +235142,7 @@
 0.0.0.0 nootapsouth.com
 0.0.0.0 nothingmethod.com
 0.0.0.0 nougatdimetry.com
+0.0.0.0 npipajajn.com
 0.0.0.0 nqmanxtemqvlne.com
 0.0.0.0 nryzasskidu.com
 0.0.0.0 ntanufxwio.com
@@ -235316,6 +235322,7 @@
 0.0.0.0 ozqoztrkoaj.com
 0.0.0.0 ozsoekwgy.com
 0.0.0.0 ozwvkazrik.com
+0.0.0.0 ozxakfawm.com
 0.0.0.0 p23hxejm1.com
 0.0.0.0 p4r24.eu
 0.0.0.0 pagerank-server7.de
@@ -235669,6 +235676,7 @@
 0.0.0.0 ryeqnyvbncdvg.com
 0.0.0.0 rympsxilkdqywd.com
 0.0.0.0 rzaathjhibpe.com
+0.0.0.0 s.eunow4u.com
 0.0.0.0 s.nitropay.com
 0.0.0.0 sablesong.com
 0.0.0.0 sacralcabaa.com
@@ -235733,6 +235741,7 @@
 0.0.0.0 shelvesparticipate.com
 0.0.0.0 shestour.net
 0.0.0.0 shhxgqpaxvdjn.com
+0.0.0.0 shiglangee.net
 0.0.0.0 shiowbafrrra.com
 0.0.0.0 shlyapajhd2kle8pnc09.com
 0.0.0.0 shndrktrk.com
@@ -236740,6 +236749,7 @@
 0.0.0.0 vercel-analytics.com
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 web-t.9gag.com
+0.0.0.0 web-tracking.engagebay.com
 0.0.0.0 web.mxradon.com
 0.0.0.0 weborama.net
 0.0.0.0 wieistmeineip.de
