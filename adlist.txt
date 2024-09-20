@@ -227079,6 +227079,7 @@
 0.0.0.0 assoc-msdk-us.amazon-adsystem.com
 0.0.0.0 cdn-d.amazon-adsystem.com
 0.0.0.0 cdn-t.amazon-adsystem.com
+0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 fls-cn.amazon-adsystem.com
 0.0.0.0 imdb.amazon-adsystem.com
@@ -227148,6 +227149,8 @@
 0.0.0.0 log.spotify.com
 0.0.0.0 trac.admob.com
 0.0.0.0 r.l.admob.com
+0.0.0.0 api.cmp.inmobi.com
+0.0.0.0 cmp.inmobi.com
 0.0.0.0 da.inmobi.com
 0.0.0.0 eventserver-eastus.trafficmanager.idsp.inmobi.com
 0.0.0.0 gionee.analytics.glance.inmobi.com
@@ -227762,6 +227765,7 @@
 0.0.0.0 api.criteo.com
 0.0.0.0 dev.criteo.com
 0.0.0.0 go.criteo.com
+0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 info.criteo.com
 0.0.0.0 labs.criteo.com
 0.0.0.0 pubsdk-bin.criteo.com
@@ -231125,6 +231129,7 @@
 0.0.0.0 js.vlitag.com
 0.0.0.0 logs.vlitag.com
 0.0.0.0 media.vlitag.com
+0.0.0.0 s3.vlitag.com
 0.0.0.0 stats.vlitag.com
 0.0.0.0 lg.vliplatform.com
 0.0.0.0 lgs.vliplatform.com
@@ -232976,6 +232981,8 @@
 0.0.0.0 rwadx.com
 0.0.0.0 api.adnz.co
 0.0.0.0 cdn.adnz.co
+0.0.0.0 sync.quantumdex.io
+0.0.0.0 useast.quantumdex.io
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
 0.0.0.0 17mmc5g1n.com
@@ -235827,7 +235834,6 @@
 0.0.0.0 sybostuff.com
 0.0.0.0 syenitetatler.tech
 0.0.0.0 sympathydistinguish.com
-0.0.0.0 sync.quantumdex.io
 0.0.0.0 syndapop.com
 0.0.0.0 syndetstermine.com
 0.0.0.0 syndicate.purch.com
@@ -236057,7 +236063,6 @@
 0.0.0.0 urediumshirker.website
 0.0.0.0 us.claroadsxml.com
 0.0.0.0 usapromotravel.com
-0.0.0.0 useast.quantumdex.io
 0.0.0.0 useriq.com
 0.0.0.0 userresewn.com
 0.0.0.0 usmilitarylawyer.com
@@ -236543,6 +236548,7 @@
 0.0.0.0 hypestat.com
 0.0.0.0 i-mar.com
 0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 id.a-mx.com
 0.0.0.0 ilogs.bytefence.com
 0.0.0.0 im.bluevoox.com
 0.0.0.0 img.leadzutw.com
