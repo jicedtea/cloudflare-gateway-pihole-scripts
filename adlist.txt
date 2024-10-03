@@ -182196,6 +182196,7 @@
 0.0.0.0 img.ads.tvb.com
 0.0.0.0 ad1.ettoday.net
 0.0.0.0 ad2.ettoday.net
+0.0.0.0 log-video.baotintuc.vn
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
 0.0.0.0 17mmc5g1n.com
