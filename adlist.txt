@@ -179948,6 +179948,8 @@
 0.0.0.0 www.nextadgem.com
 0.0.0.0 cdn.mobilefuse.com
 0.0.0.0 klink.volceapplog.com
+0.0.0.0 analytics.mobiedu.vn
+0.0.0.0 us.mplis.gov.vn
 0.0.0.0 03ed9035a0801f.com
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
@@ -180455,6 +180457,7 @@
 0.0.0.0 avvavcazs.com
 0.0.0.0 awaps.net
 0.0.0.0 awesunstroke.com
+0.0.0.0 awhilediplomagloss.com
 0.0.0.0 awkwardtilt.com
 0.0.0.0 awmadffahon.com
 0.0.0.0 awpuquina.tech
@@ -180490,6 +180493,7 @@
 0.0.0.0 baggalaresaid.com
 0.0.0.0 baglezymoses.com
 0.0.0.0 bagnutperpera.com
+0.0.0.0 bagpipemonogamypercent.com
 0.0.0.0 baguettefactornervous.com
 0.0.0.0 bahdubniwnty.com
 0.0.0.0 bakomcsmya.com
@@ -180609,6 +180613,7 @@
 0.0.0.0 boaswooned.com
 0.0.0.0 bogglesreamuse.digital
 0.0.0.0 bohonef.com
+0.0.0.0 boilhumoristpacifist.com
 0.0.0.0 boilingumbrella.com
 0.0.0.0 boldchat.com
 0.0.0.0 bolivarmaltol.website
@@ -180825,6 +180830,7 @@
 0.0.0.0 clmcom.com
 0.0.0.0 cloisonprecool.uno
 0.0.0.0 cloisteredhydrant.com
+0.0.0.0 closablemardistiffness.com
 0.0.0.0 closetagitation.com
 0.0.0.0 cloudcoins.biz
 0.0.0.0 cloudembed.net
@@ -181006,6 +181012,7 @@
 0.0.0.0 defusefinishedsleep.com
 0.0.0.0 defyraspypuke.com
 0.0.0.0 deityshovedcarriage.com
+0.0.0.0 delicatedimlysloppy.com
 0.0.0.0 deliver.vkcdnservice.com
 0.0.0.0 deltoidviragin.com
 0.0.0.0 demand.supply
@@ -181184,6 +181191,7 @@
 0.0.0.0 ellicecaesura.com
 0.0.0.0 eltontry.com
 0.0.0.0 emarketer.com
+0.0.0.0 emblemexceptionscorer.com
 0.0.0.0 emergencymarquis.com
 0.0.0.0 enchantmentconsisteddime.com
 0.0.0.0 enchaseys.website
@@ -181244,6 +181252,7 @@
 0.0.0.0 facebookad.for88vn.com
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 facilitateinn.com
+0.0.0.0 factsheetgrievancekeg.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadingamendable.com
 0.0.0.0 fadzudvracat.com
@@ -181329,6 +181338,7 @@
 0.0.0.0 forsungprosode.com
 0.0.0.0 forzslodge.com
 0.0.0.0 fossorplumper.com
+0.0.0.0 foundinggulfsaturate.com
 0.0.0.0 fountainsuperior.com
 0.0.0.0 fourarithmetic.com
 0.0.0.0 foutyoxyaena.website
@@ -181405,8 +181415,10 @@
 0.0.0.0 gentlypromote.com
 0.0.0.0 get2m5sgstohne.com
 0.0.0.0 getalinkandshare.com
+0.0.0.0 getmytralala.com
 0.0.0.0 getwisdom.io
 0.0.0.0 ggimg.tapas.net
+0.0.0.0 ggreatstuff.com
 0.0.0.0 ggz48pxys.com
 0.0.0.0 ghfkoxaubnrdgg.com
 0.0.0.0 ghochv3eng.trafficmanager.net
@@ -181634,6 +181646,7 @@
 0.0.0.0 huppontic.com
 0.0.0.0 huradisbud.com
 0.0.0.0 hurtteeth.com
+0.0.0.0 huskinessimminentstylus.com
 0.0.0.0 husorvajjc.com
 0.0.0.0 husxculiqdpu.com
 0.0.0.0 hutchieshode.com
@@ -181740,6 +181753,7 @@
 0.0.0.0 intensedebate.net
 0.0.0.0 intensedebate.org
 0.0.0.0 intentmedia.net
+0.0.0.0 interesttingg.com
 0.0.0.0 internationalguardianminute.com
 0.0.0.0 interndry.com
 0.0.0.0 intimategleaming.com
@@ -182037,6 +182051,7 @@
 0.0.0.0 mandateowl.com
 0.0.0.0 manfjgo2jgb8mg09.com
 0.0.0.0 manivalyrid.com
+0.0.0.0 manpowerspiritualunrented.com
 0.0.0.0 mapbasin.com
 0.0.0.0 mapolxzunakq.com
 0.0.0.0 marasgumpus.com
@@ -182344,6 +182359,7 @@
 0.0.0.0 ofsyuxaveckulgf.com
 0.0.0.0 ofvogxvzagh.com
 0.0.0.0 oggakmsumxa.com
+0.0.0.0 ogkvkuvfy.com
 0.0.0.0 ogrmiblwov.com
 0.0.0.0 ogrqahqikxf.com
 0.0.0.0 ogtollhazv.com
@@ -183224,6 +183240,7 @@
 0.0.0.0 tginspections.com
 0.0.0.0 tgvbwjbnxz.com
 0.0.0.0 tgzobwoutuwn.com
+0.0.0.0 thads.cc
 0.0.0.0 thaeinai.com
 0.0.0.0 thakscholae.com
 0.0.0.0 that-muscle.com
