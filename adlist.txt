@@ -180295,6 +180295,15 @@
 0.0.0.0 www.nextadgem.com
 0.0.0.0 cdn.mobilefuse.com
 0.0.0.0 klink.volceapplog.com
+0.0.0.0 ads-api.videy.co
+0.0.0.0 ads2.videy.co
+0.0.0.0 ads3.videy.co
+0.0.0.0 api.scorchads.com
+0.0.0.0 assets.scorchads.com
+0.0.0.0 scorchads.com
+0.0.0.0 serve.scorchads.com
+0.0.0.0 track.scorchads.com
+0.0.0.0 stats.etix.vn
 0.0.0.0 03ed9035a0801f.com
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
@@ -180503,9 +180512,7 @@
 0.0.0.0 ads.wedodemos.com
 0.0.0.0 ads.x-cdn.org
 0.0.0.0 ads04.tapsense.com
-0.0.0.0 ads2.videy.co
 0.0.0.0 ads3.bangkokpost.co.th
-0.0.0.0 ads3.videy.co
 0.0.0.0 adsage.cn
 0.0.0.0 adsage.com
 0.0.0.0 adsapi.togothermany.cn
@@ -180716,6 +180723,7 @@
 0.0.0.0 apochaeunanime.com
 0.0.0.0 apoilpnwr.com
 0.0.0.0 apoll-amp.com
+0.0.0.0 app-ads-services.com
 0.0.0.0 app-promo.com
 0.0.0.0 appbetnewapp.top
 0.0.0.0 appdog.com
@@ -182710,6 +182718,7 @@
 0.0.0.0 ogrqahqikxf.com
 0.0.0.0 ogtollhazv.com
 0.0.0.0 ohfapzvhun.com
+0.0.0.0 ohgorbqcegig.com
 0.0.0.0 ohibal.com
 0.0.0.0 ohkojloxdtw.com
 0.0.0.0 ohqbutogkn.com
@@ -183664,6 +183673,7 @@
 0.0.0.0 translateoatmeal.com
 0.0.0.0 traovrjwu.com
 0.0.0.0 trashywallowgloom.com
+0.0.0.0 trck.pocketmoon.me
 0.0.0.0 trekblue.com
 0.0.0.0 tremorvideo.com
 0.0.0.0 trendedsegged.com
@@ -183955,6 +183965,7 @@
 0.0.0.0 www.ambleads.com
 0.0.0.0 www.antiadblocksystems.com
 0.0.0.0 www.anymedia.lv
+0.0.0.0 www.app-ads-services.com
 0.0.0.0 www.asiacpx.com
 0.0.0.0 www.axdsz.pro
 0.0.0.0 www.beharmalted.info
