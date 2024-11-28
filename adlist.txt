@@ -179416,7 +179416,6 @@
 0.0.0.0 mock-bapi.userreport.com
 0.0.0.0 sync.userreport.com
 0.0.0.0 userreport.com
-0.0.0.0 api.adnet.mob.com
 0.0.0.0 mp.4dex.io
 0.0.0.0 pls.ximad.com
 0.0.0.0 puzzlestore.ximad.com
@@ -180373,6 +180372,7 @@
 0.0.0.0 scorchads.com
 0.0.0.0 serve.scorchads.com
 0.0.0.0 track.scorchads.com
+0.0.0.0 log.1vn.app
 0.0.0.0 03ed9035a0801f.com
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
@@ -184439,6 +184439,7 @@
 0.0.0.0 selfishsnake.com
 0.0.0.0 showbiz.owndata.network
 0.0.0.0 smart-dmp.com
+0.0.0.0 smartop-sdkapi.jiguang.cn
 0.0.0.0 snnd.co
 0.0.0.0 soflopxl.com
 0.0.0.0 soidc.com
