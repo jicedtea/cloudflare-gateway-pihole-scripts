@@ -175597,6 +175597,7 @@
 0.0.0.0 affiliatetrading.net
 0.0.0.0 affiliazioniads.snai.it
 0.0.0.0 affiliazionisnai.cdn.netrefer.com
+0.0.0.0 affluentarmyequator.com
 0.0.0.0 affshopp.click
 0.0.0.0 afftrk.altex.ro
 0.0.0.0 afgamvohcsc.com
@@ -176675,6 +176676,7 @@
 0.0.0.0 famularfaucal.tech
 0.0.0.0 fanydourer.com
 0.0.0.0 faracoon.com
+0.0.0.0 farcivinage.shop
 0.0.0.0 fardelbungo.com
 0.0.0.0 fardingsoiling.com
 0.0.0.0 farmagegaudful.com
@@ -176917,6 +176919,7 @@
 0.0.0.0 grishoussaiz.com
 0.0.0.0 groopsie.net
 0.0.0.0 grosetgnaw.life
+0.0.0.0 grovkuma.com
 0.0.0.0 grozeesh.com
 0.0.0.0 grunikpazp.com
 0.0.0.0 gruttumalda.com
@@ -177370,6 +177373,7 @@
 0.0.0.0 lectureolympics.com
 0.0.0.0 leethalo.net
 0.0.0.0 leetmenllew.com
+0.0.0.0 legitfizzed.shop
 0.0.0.0 lehvxwciysoac.com
 0.0.0.0 leisengr.com
 0.0.0.0 lemmataoutsoar.com
@@ -177718,6 +177722,7 @@
 0.0.0.0 nicohgokppuj.com
 0.0.0.0 nidecelebe.life
 0.0.0.0 nideganta.life
+0.0.0.0 niflpmfn.com
 0.0.0.0 niftpyobkap.com
 0.0.0.0 nighedmend.live
 0.0.0.0 nightmareirene.com
@@ -178282,6 +178287,7 @@
 0.0.0.0 reflectivereward.com
 0.0.0.0 refoldbyrlaw.com
 0.0.0.0 refraintsarcoma.com
+0.0.0.0 regardviolas.shop
 0.0.0.0 reglowgleyde.com
 0.0.0.0 rehanggepoun.space
 0.0.0.0 reivereme.com
@@ -178333,6 +178339,7 @@
 0.0.0.0 rimvheztaotf.com
 0.0.0.0 ringedtusher.com
 0.0.0.0 ringerbaseballsilk.com
+0.0.0.0 riotedstuccos.top
 0.0.0.0 ripapgrilof.com
 0.0.0.0 ripe-heart.com
 0.0.0.0 riskexcel.com
@@ -178658,6 +178665,7 @@
 0.0.0.0 syndetstermine.com
 0.0.0.0 syndicate.purch.com
 0.0.0.0 syndicpop.com
+0.0.0.0 synonymdetected.com
 0.0.0.0 sypnios.com
 0.0.0.0 syrsple2se8nyu09.com
 0.0.0.0 systolesaughy.digital
