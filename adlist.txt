@@ -168342,6 +168342,7 @@
 0.0.0.0 o.update.fbsbx.com
 0.0.0.0 p.update.fbsbx.com
 0.0.0.0 u.update.fbsbx.com
+0.0.0.0 ads-api.x.com
 0.0.0.0 log.spotify.com
 0.0.0.0 trac.admob.com
 0.0.0.0 r.l.admob.com
@@ -174705,6 +174706,7 @@
 0.0.0.0 axzwinjabhc.com
 0.0.0.0 ayads.io
 0.0.0.0 ayensexilic.com
+0.0.0.0 ayiztaefkfzs.com
 0.0.0.0 aylarl.com
 0.0.0.0 ayrtpmwuymzbbq.com
 0.0.0.0 ayvfzwttm.com
@@ -175397,6 +175399,7 @@
 0.0.0.0 duzzufaxzavs.com
 0.0.0.0 dvmludkami.com
 0.0.0.0 dyeingjaun.com
+0.0.0.0 dzsopgxm.com
 0.0.0.0 dzuvuwtceoxf.com
 0.0.0.0 e-bannerx.com
 0.0.0.0 e335udnv6drg78b7.com
