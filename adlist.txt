@@ -172256,6 +172256,7 @@
 0.0.0.0 tesla.trafficstars.com
 0.0.0.0 ws3.trafficstars.com
 0.0.0.0 www.trafficstars.com
+0.0.0.0 r-eu.tsyndicate.com
 0.0.0.0 rtb.tsyndicate.com
 0.0.0.0 vcdn.tsyndicate.com
 0.0.0.0 aab.adxxx.com
@@ -173981,6 +173982,9 @@
 0.0.0.0 onwardclick.fs.ak-is2.net
 0.0.0.0 onwardclick.xs.ak-is2.net
 0.0.0.0 popmonetizer.xml.ak-is2.net
+0.0.0.0 popsgg.xml-eu-v4.ak-is2.net
+0.0.0.0 popsgg.xml-v4.ak-is2.net
+0.0.0.0 popsgg.xml.ak-is2.net
 0.0.0.0 pressize.xml-eu.ak-is2.net
 0.0.0.0 pulsefintech.xs.ak-is2.net
 0.0.0.0 pushub.xml-eu.ak-is2.net
@@ -175111,6 +175115,10 @@
 0.0.0.0 insights.rtgio.co
 0.0.0.0 ttrk.io
 0.0.0.0 wdc.ttrk.io
+0.0.0.0 pops.gg
+0.0.0.0 xml-eu-v4.pops.gg
+0.0.0.0 xml-v4.pops.gg
+0.0.0.0 xml.pops.gg
 0.0.0.0 03ed9035a0801f.com
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
@@ -175781,6 +175789,7 @@
 0.0.0.0 blackbrake.com
 0.0.0.0 blackviewpartners.shop
 0.0.0.0 blast4traffic.com
+0.0.0.0 blearspellaea.shop
 0.0.0.0 bleedlight.com
 0.0.0.0 bleokerrie.com
 0.0.0.0 bletretzian.com
@@ -176117,6 +176126,7 @@
 0.0.0.0 cravekeyboard.com
 0.0.0.0 crawlclocks.com
 0.0.0.0 crazyabuse.pro
+0.0.0.0 crazyads.fusetracking.com
 0.0.0.0 crazywingflap.com
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creafi.com
@@ -176225,6 +176235,7 @@
 0.0.0.0 defyraspypuke.com
 0.0.0.0 deityshovedcarriage.com
 0.0.0.0 delicatedimlysloppy.com
+0.0.0.0 deliriamorula.shop
 0.0.0.0 deliver.vkcdnservice.com
 0.0.0.0 deltoidviragin.com
 0.0.0.0 demand.supply
@@ -176754,6 +176765,7 @@
 0.0.0.0 gweluwaggoc.com
 0.0.0.0 gycqna.com
 0.0.0.0 gzefitkcep.com
+0.0.0.0 gzegwior.com
 0.0.0.0 h2aek6rv0ard.com
 0.0.0.0 h4aock41f.com
 0.0.0.0 h4r7dvewa.com
@@ -177028,6 +177040,7 @@
 0.0.0.0 iuovbilfsf.xyz
 0.0.0.0 ivfihumeajjmbc.com
 0.0.0.0 ivypixel.com
+0.0.0.0 izleskulked.shop
 0.0.0.0 j0x87i0og.com
 0.0.0.0 jacadpjirs.com
 0.0.0.0 jackadamo.com
@@ -177055,6 +177068,7 @@
 0.0.0.0 jiordgxkpglzm.com
 0.0.0.0 jitteryhire.pro
 0.0.0.0 jizoqsor.com
+0.0.0.0 jjczoufb.com
 0.0.0.0 jjpjpyvdasbvt.com
 0.0.0.0 jjvnlfpywgbxgt.com
 0.0.0.0 jkfdnofnz.com
@@ -177100,6 +177114,7 @@
 0.0.0.0 jzeoqdjcyp.com
 0.0.0.0 kabquravcofq.com
 0.0.0.0 kagbydhgwbq.com
+0.0.0.0 kaisauwoure.net
 0.0.0.0 kamak-mab.com
 0.0.0.0 kamwaflmoacd.com
 0.0.0.0 kanawhadonnot.website
@@ -177623,6 +177638,7 @@
 0.0.0.0 ofrvpeodmba.com
 0.0.0.0 ofsyuxaveckulgf.com
 0.0.0.0 ofvogxvzagh.com
+0.0.0.0 og-shopee9.com
 0.0.0.0 oggakmsumxa.com
 0.0.0.0 ogkvkuvfy.com
 0.0.0.0 ogrmiblwov.com
@@ -178082,6 +178098,7 @@
 0.0.0.0 rceqisfutv.com
 0.0.0.0 rcuafjdnsocpr.xyz
 0.0.0.0 rdgtvgmtauro.com
+0.0.0.0 rduaagcwsw.com
 0.0.0.0 re-directme.com
 0.0.0.0 readgoldfish.com
 0.0.0.0 readserver.net
@@ -178424,6 +178441,7 @@
 0.0.0.0 stihruojvag.com
 0.0.0.0 stingyshoe.com
 0.0.0.0 stinicf.com
+0.0.0.0 stoampaliy.net
 0.0.0.0 stogivpi.com
 0.0.0.0 storage.mcwnow.co
 0.0.0.0 storeslope.com
@@ -178585,6 +178603,7 @@
 0.0.0.0 throngsarseno.com
 0.0.0.0 thterras.com
 0.0.0.0 thubanoa.com
+0.0.0.0 thvhjgxmyjnoqvq.com
 0.0.0.0 tiaraedmessing.uno
 0.0.0.0 tiarasorthose.website
 0.0.0.0 tiijdxto.com
@@ -178918,6 +178937,7 @@
 0.0.0.0 wotlinkmeatmen.digital
 0.0.0.0 woubitpopess.life
 0.0.0.0 wouhaugiby.com
+0.0.0.0 wounofoarausooy.net
 0.0.0.0 wowhugoo.com
 0.0.0.0 wowserskersey.digital
 0.0.0.0 woyisopag.life
