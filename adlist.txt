@@ -179802,6 +179802,7 @@
 0.0.0.0 vs.biz.weibo.com
 0.0.0.0 stat.tpns.tencent.com
 0.0.0.0 stat.tpns.gz2.tencent.com
+0.0.0.0 bloggiamgia.info
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 152media.info
 0.0.0.0 17mmc5g1n.com
@@ -180173,6 +180174,7 @@
 0.0.0.0 blackbrake.com
 0.0.0.0 blast4traffic.com
 0.0.0.0 bleedlight.com
+0.0.0.0 blibberon.xyz
 0.0.0.0 bloatingexpectantretinal.com
 0.0.0.0 blogrush.com
 0.0.0.0 bluadz.com
@@ -180205,6 +180207,7 @@
 0.0.0.0 brightadnetwork.com
 0.0.0.0 britepool.com
 0.0.0.0 broadlyjukeboxunrevised.com
+0.0.0.0 bronzecedarleaf.com
 0.0.0.0 brookgetupshorts.com
 0.0.0.0 bruisebaseball.com
 0.0.0.0 brynh-lei.com
@@ -180399,6 +180402,7 @@
 0.0.0.0 discourageabjure.com
 0.0.0.0 discovermustystarter.com
 0.0.0.0 displayadsmedia.com
+0.0.0.0 dithodackee.com
 0.0.0.0 dizbirmwavic.com
 0.0.0.0 dmp.starbolt.io
 0.0.0.0 dn0qt3r0xannq.cloudfront.net
@@ -180465,6 +180469,7 @@
 0.0.0.0 eztexting.com
 0.0.0.0 f5biz.com
 0.0.0.0 facebookad.for88vn.com
+0.0.0.0 faciendtabour.shop
 0.0.0.0 factsheetgrievancekeg.com
 0.0.0.0 fadzudvracat.com
 0.0.0.0 fagawdasv.com
@@ -180677,6 +180682,7 @@
 0.0.0.0 jkfdnofnz.com
 0.0.0.0 jkuadhaf.com
 0.0.0.0 jkuwfofr.com
+0.0.0.0 jncdvibhdaddmu.com
 0.0.0.0 jollytestpartying.com
 0.0.0.0 jpjmpqaupc.com
 0.0.0.0 jpovulldaghw.com
@@ -180906,6 +180912,7 @@
 0.0.0.0 okxparnalc.com
 0.0.0.0 olnalbogxra.com
 0.0.0.0 oltnukjafo.com
+0.0.0.0 olxxugltoku.com
 0.0.0.0 olzlmemumcwe.com
 0.0.0.0 ombwzonwupu.com
 0.0.0.0 omgcoool.com
@@ -181357,6 +181364,7 @@
 0.0.0.0 voupsauk.com
 0.0.0.0 vqhlhfjmvcvxw.com
 0.0.0.0 vrancaozgdw.com
+0.0.0.0 vruaskogjsu.com
 0.0.0.0 vs.tucows.com
 0.0.0.0 vtacibqzopiw.com
 0.0.0.0 vteskyombq.com
